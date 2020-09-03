@@ -1,5 +1,5 @@
 language: java
-os: linux
+os: macos
 dist: xenial
 jdk:
   - openjdk8
